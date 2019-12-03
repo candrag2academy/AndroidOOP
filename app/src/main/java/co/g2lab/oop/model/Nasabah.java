@@ -1,4 +1,4 @@
-package co.g2lab.oop.models;
+package co.g2lab.oop.model;
 
 public class Nasabah {
     private String id;
